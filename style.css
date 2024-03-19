@@ -175,11 +175,4 @@ footer {
 	margin: 0 auto;
 }
 
-@media (min-width: 768px) {
-	.burger-icon {
-		display: none;
-	}
-	.nav-item {
-		display: inline-block;
-	}
-}
+

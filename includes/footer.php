@@ -6,4 +6,4 @@
                 <a href="https://github.com/martawebmag"><i class="fa-brands fa-square-github"></i></a>
             </span>
         </p>
-    </footer>
+</footer>

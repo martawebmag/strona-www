@@ -10,6 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/icon" href="img/favicon.jpg" />
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="media-queries.css">
     <script src="https://kit.fontawesome.com/789005376d.js" crossorigin="anonymous"></script>
     <script src="app.js"></script>
 </head>
