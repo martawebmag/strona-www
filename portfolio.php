@@ -39,6 +39,9 @@
         </ul>
 <p>zmiana na masterze</p>
 
+        <span>jakis span</span>
+
+
     </main>
     <?php 
     include "includes/footer.php";
