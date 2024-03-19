@@ -37,7 +37,7 @@
             <li>Projekt 5</li>
             <li>Projekt 6</li>
         </ul>
-
+<p>zmiana na masterze</p>
 
     </main>
     <?php 
