@@ -38,6 +38,8 @@
             <li>Projekt 6</li>
         </ul>
 
+        <span>jakis span</span>
+
 
     </main>
     <?php 
