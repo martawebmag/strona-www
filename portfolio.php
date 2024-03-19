@@ -26,6 +26,9 @@
 
         <h4>Kafelki jak w galerii z obrazkami/linkami</h4>
 
+        <h3>portfolio</h3>
+        <p>dodanie brancha na mastera</p>
+
         <ul class="portfolio">
             <li>Projekt 1</li>
             <li>Projekt 2</li>
